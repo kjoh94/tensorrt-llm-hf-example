@@ -1,0 +1,8 @@
+*.engine
+engines/
+ckpt/
+hf_models/
+*.safetensors
+*.bin
+__pycache__/
+.venv/

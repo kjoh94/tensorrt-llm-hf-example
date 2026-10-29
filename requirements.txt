@@ -1,0 +1,3 @@
+# Run inside an NVIDIA GPU environment (e.g. nvcr.io/nvidia/tensorrt-llm/release container or a RunPod GPU pod).
+tensorrt_llm
+transformers
